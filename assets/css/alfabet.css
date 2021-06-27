@@ -1,0 +1,27 @@
+/*
+Alfabet style if exist in here
+*/
+ h3, h5{
+    text-align: center;
+ }
+ main ul:first-of-type{
+    list-style: none; 
+    margin-left: 5px;
+    text-align: center;  
+ }
+ main a{
+  color: #A50000;
+  font-weight: bold;
+ }
+ .arrow .icon{
+  font-size: 27px
+ }
+ .none{
+    font-size: 27px;     
+ }
+ @media (min-width: 768px){
+   main ul:first-of-type{
+    max-width: 50%;
+    margin-left: 25%;  
+   }
+ }

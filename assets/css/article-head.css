@@ -1,0 +1,20 @@
+
+  h3,h5{
+    font-weight: bold;
+  }
+  h3{
+    text-align: center; 
+  }  
+  main p:nth-child(2){
+    text-align: center!important;
+  }  
+  main p:nth-child(4){
+    text-align: center!important;
+    margin-bottom: 50px;
+  }
+  a{
+    font-weight: bold;
+  }
+  figure > img{
+    display: unset;
+  }

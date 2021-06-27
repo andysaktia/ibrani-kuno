@@ -1,0 +1,14 @@
+
+
+<div class="arrow">
+  {%- if page.prev -%}
+  <a href="{{ site.url }}/{{ page.cat }}/{{ page.prev }}">
+    <i class="icon bi-arrow-left-circle"></i>
+  </a>
+  {%- endif -%}
+  {%- if page.next -%}
+  <a href="{{ site.url }}/{{ page.cat }}/{{ page.next }}">
+    <i class="icon bi-arrow-right-circle float-right"></i>
+  </a>
+  {%- endif -%}
+</div>

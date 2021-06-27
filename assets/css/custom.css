@@ -1,0 +1,55 @@
+/*
+Custom style if exist in here
+*/
+
+.featurette-top {
+    margin: 3rem 0; 
+}
+
+@media (max-width:700px){
+    #content-alfabet img{
+        width: 50%;
+    } 
+    #content-alfabet .row{
+        font-size: 0.7rem;
+    } 
+    #content-chart img{
+        width: 100%;
+    } 
+    .h-5{
+        font-size: 1.4rem;
+    } 
+
+}
+
+.content-detail{
+    border-bottom: 1px;
+    padding-top: 1.5rem;
+}
+.content-detail .img-root{
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.2rem;
+}
+
+#collapseOne img{
+    padding: 0px 5px;
+}
+
+.svg-icon.grey{
+    box-sizing: unset;
+}
+
+#tentang {
+    padding-top: 5rem;
+}
+
+.art-sec{
+  text-align: justify;
+}
+.art-sec a{
+  color: #A50000;
+}
+.art-sec a:hover{
+  color: #A50000;
+}
