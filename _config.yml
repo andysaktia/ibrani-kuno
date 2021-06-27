@@ -7,7 +7,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
 # Situs ini merupakan situs resmi dari <a href="https://ancient-hebrew.org" target="_blank">Ancient Hebrew Research Center</a> milik Jeff A. Benner.  
 
-url: http://id.ancient-hebrew.org
+url: https://andysaktia.github.io/ibrani-kuno/
 #url: http://127.0.0.1:4000
 
 show_excerpts: false # set to true to show excerpts on the homepage
